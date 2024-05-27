@@ -1,0 +1,23 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.msg{
+    display: flex;
+    gap: 150px;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.msg p{
+    font-size: 20px;
+    max-width: 1000px;
+    margin-left: 50px;
+    text-align: justify;
+}
+
+.msg img{
+    width: 200px;
+}
