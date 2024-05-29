@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/imgs/logo.jpg"
+// import logo from "../assets/imgs/logo.jpg"
 import "./Home.css"
 import Carousel from "../Carousel/Slideshow"
 import DirMsg from '../DirMsg/DirMsg'
